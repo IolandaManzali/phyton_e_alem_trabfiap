@@ -2,12 +2,6 @@
 # Nome do projeto - Python e Alem
 ![techplant.jpg](https://github.com/IolandaManzali/grupo_fiapIA/blob/main/python_alem/techplant.jpg)
 
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Markdown Badge](https://img.shields.io/badge/markdown-1f48fa?style=for-the-badge&logo=markdown&logoColor=white)
-![Microsoft 365 Badge](https://img.shields.io/badge/Microsoft365-666666?style=for-the-badge&logo=microsoft&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-
-
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![FIAP](https://img.shields.io/badge/FIAP-IA-red.svg)
 [![Versão](https://img.shields.io/badge/version-1.0.0-blue)](https://shields.io/badges)
