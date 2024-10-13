@@ -2,10 +2,8 @@
 # Nome do projeto - Python e Alem
 ![techplant.jpg](https://github.com/IolandaManzali/grupo_fiapIA/blob/main/python_alem/techplant.jpg)
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![FIAP](https://img.shields.io/badge/FIAP-IA-red.svg)
 [![Versão](https://img.shields.io/badge/version-1.0.0-blue)](https://shields.io/badges)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ## Nome do grupo - Grupo 30
 
@@ -41,25 +39,6 @@ Este projeto é parte do curso de Inteligência Artificial da FIAP e visa democr
  🤖 Sugestões de melhoria atraves do uso de tecnologias de monitoramento. sensores e drones
 
 
-## 📦 Instalação e Uso
-(falta fazer)
-
-1. Clone o repositório:
-   ```
-   git clone https://github.com/seuusername/AgroTechFamiliar.git
-   ```
-
-2. Navegue até o diretório do projeto:
-   ```
-   cd AgroTechFamiliar
-   ```
-
-3. Execute o script principal:
-   ```
-   python assistente_agricultura_familiar.py
-   ```
-
-4. Siga as instruções na tela para obter recomendações personalizadas.
 
 ### 🔮 Próximos Passos
 
