@@ -1,6 +1,7 @@
 # FIAP - Faculdade de Informática e Administração Paulista
 # Nome do projeto - Python e Alem
-![techplant.jpg](https://github.com/IolandaManzali/grupo_fiapIA/blob/main/python_alem/techplant.jpg)
+![techplant.jpg]([https://github.com/IolandaManzali/grupo_fiapIA/blob/main/python_alem/techplant.jpg)
+
 
 ![FIAP](https://img.shields.io/badge/FIAP-IA-red.svg)
 [![Versão](https://img.shields.io/badge/version-1.0.0-blue)](https://shields.io/badges)
@@ -30,7 +31,6 @@ Este projeto é parte do curso de Inteligência Artificial da FIAP e visa democr
  🗺️ Recomendação de  três culturas por região do pais (Norte, Nordeste, Centro-Oeste, Sudeste e Sul)
 
  💧 Cálculo de recursos hídricos
- - (completar esssa parte)
 
  🧪 Informações sobre gerais sobre as culturas selecionadas, insumos e bioinsumos
  
@@ -129,7 +129,7 @@ Microsoft 365 Create: https://create.microsoft.com/pt-br/features/ai-image-gener
 
 ## Desenvolvedores
 
-![grupo_fiap.jpg](https://github.com/IolandaManzali/grupo_fiapIA/blob/main/python_alem/grupo_fiap.jpg) 
+![grupo_fiap.jpg](https://github.com/IolandaManzali/phyton_e_alem_trabfiap/blob/main/assets/grupo_fiap.jpg) 
 
 ## Contribuições
 
