@@ -1,6 +1,6 @@
 # FIAP - Faculdade de Informática e Administração Paulista
 # Nome do projeto - Python e Alem
-![techplant.jpg]([https://github.com/IolandaManzali/grupo_fiapIA/blob/main/python_alem/techplant.jpg)
+![techplant.jpg](https://github.com/IolandaManzali/grupo_fiapIA/blob/main/python_alem/techplant.jpg)
 
 
 ![FIAP](https://img.shields.io/badge/FIAP-IA-red.svg)
