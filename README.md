@@ -78,7 +78,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 ### R
  * Acessado a partir da bbiblioteca Pyhton rpy2
 
-   ![codigo R.jpg](https://github.com/IolandaManzali/phyton_e_alem_trabfiap/blob/main/assets/codigoR.jpg)
+   ![codigo R.jpg](https://github.com/IolandaManzali/phyton_e_alem_trabfiap/blob/main/assets/codigo R.jpg)
   
 
 ### Banco de Dados
