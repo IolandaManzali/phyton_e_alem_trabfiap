@@ -73,6 +73,13 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 ### Python
 
+ * Acesso a uma IDE compativel com Python
+   
+ * Importacao das bibliotecas rpy2
+   
+ * Criacao de um código composto pelo menu principal subdividido em submenus com utilizacao dos parametros e funçoes (subalgoritmos e listas, dentre outros).
+       
+  
 
 
 ### R
