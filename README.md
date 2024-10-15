@@ -38,8 +38,6 @@ Este projeto é parte do curso de Inteligência Artificial da FIAP e visa democr
  
  🤖 Sugestões de melhoria atraves do uso de tecnologias de monitoramento. sensores e drones
 
-
-
 ### 🔮 Próximos Passos
 
 - [ ] Implementar interface gráfica
@@ -48,8 +46,6 @@ Este projeto é parte do curso de Inteligência Artificial da FIAP e visa democr
 - [ ] Integrar APIs de previsão do tempo
 - [ ] Integrar estimativas de custo de produção
 - [ ] Integrar dados de sensoriamento
-
-
 
 ## 📁 Estrutura de pastas
 
@@ -79,7 +75,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
    
  * Criacao de um código composto pelo menu principal subdividido em submenus com utilizacao dos parametros e funçoes (subalgoritmos e listas, dentre outros).
        
-  
+  ![codigopy.jpg](https://github.com/IolandaManzali/phyton_e_alem_trabfiap/blob/main/assets/codigopy.jpg)
 
 
 ### R
