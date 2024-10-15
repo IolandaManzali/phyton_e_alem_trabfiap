@@ -71,8 +71,13 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 ## 🔧 Como executar o código
 
-falta fazer
+### Python
 
+### R
+ * Acesso a IDE R (RStudio ou VSCode)
+
+### Banco de Dados
+ * conexão através da importação da Biblioteca Phyton pyodbc
 
 ## 🗃 Histórico de lançamentos
 
