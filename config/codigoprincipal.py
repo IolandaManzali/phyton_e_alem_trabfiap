@@ -1,12 +1,13 @@
 """
-Este projeto tem como finalidade possibilitar ao agricultor familiar acesso a tecnologia, é importante
-ressaltar que os dados são uma mistura de dados reais e fictícios, utilizados para fins acadêmicos
-Autor:
-Hilmar Gomes Marques da Silva (RM560007)
-Iolanda Helena Fabbrini Manzali de Oliveira (RM560595)
-Murilo Carone Nasser (RM560464)
-Pedro Eduardo Soares de Sousa (RM560903)
-Yago Brendon Iama (RM560674)
+Este programa foi criado para fins academicos e contém informações reais e fictícias sobre diversas variáveis agrícolas. Nesse momento, tem como escopo apenas demonstrar o uso da aplicação, 
+não devendo ser extrapolados para práticas agrícolas reais.
+
+Autores:
+Yago Brendon Iama 
+Murilo Nasser Carone
+Hilmar Gomes Marques da Silva 
+Pedro Eduardo Soares de Sousa 
+Iolanda Helena Fabbrini Manzali de Oliveira 
 
 Data: 15/10/2024
 
