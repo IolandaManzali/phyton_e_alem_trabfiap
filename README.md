@@ -84,7 +84,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 ### Banco de Dados
  * conexão através da importação da Biblioteca Phyton pyodbc
 
-   ![]()
+   ![conexaoDB.jpg](https://github.com/IolandaManzali/phyton_e_alem_trabfiap/blob/main/assets/conexaoDB.jpg)
 
 ## 🗃 Histórico de lançamentos
 
