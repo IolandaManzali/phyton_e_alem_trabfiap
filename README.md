@@ -89,6 +89,9 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
    ![conexaoDB.jpg](https://github.com/IolandaManzali/phyton_e_alem_trabfiap/blob/main/assets/conexaoDB.jpg)
 
+###Link para o video do Youtube com a demonstração do código:     
+- <a href="https://studio.youtube.com/video/DQ4xp0yXbgI/edit">Python e Alem</a>   
+
 ## 🗃 Histórico de lançamentos
 
 * 0.5.0 - XX/XX/2024
